@@ -16,7 +16,6 @@ Contents
 
 Text files
 * Berg_Uplift.txt: data file from Berg et al. (2024) https://doi.org/10.1029/2023GL104851
-* Copyright: copyright statement
 * License: license statement
 
 MATLAB .mat files
